@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [source code](https://github.com/bennahiaoualid/Responsive-Huddle-landing-page)
-- Live Site URL: [live site](https://bennahiaoualid.github.io/Responsive-Huddle-landing-page/)
+- Solution URL: [source code](https://github.com/bennahiaoualid/Responsive-Four-card-feature-section)
+- Live Site URL: [live site](https://bennahiaoualid.github.io/Responsive-Four-card-feature-section/)
 
 ## My process
 
@@ -38,8 +38,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Font Awsome Icons
 
 ### Continued development
 Keep working with pure CSS to adjust to its properties, such pseudo-elements ,animation and more.
