@@ -69,11 +69,7 @@ body {
 /* End Global Rules */
 
 .content {
-    height: 100vh;
-}
-
-.container {
-    margin-top: 50px;
+    padding-top: 10px;
 }
 
 .heading {
